@@ -120,7 +120,7 @@ http://127.0.0.1:8000
 - 🔔 Real-time notifications
 
 ### 👩‍💻 Team
+- Simran Arya
+- Anshika Singh
 - Aayushi Vinod
 - Payoshi Gupta
-- Anshika Singh
-- Simran Arya
